@@ -1,0 +1,17 @@
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
+.blue {
+    color: blue;
+}
+/* Классы для полужирного текста */
+.bold {
+    font-weight: bold;
+    }
+    /* Классы для курсивного текста */
+    .italic-text {
+  font-style: italic;
+}
